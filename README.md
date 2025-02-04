@@ -1,4 +1,6 @@
 # Test-2bAPC
-Vererbung in Java
+Autor: Dina Schönbacher
+LBS Eibiswald | 2b APC
 
+Vererbung in Java
 Mitarbeiter Informationen werden angezeigt.
