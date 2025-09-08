@@ -1,8 +1,8 @@
-# Test-2bAPC
+# Test-2aAPC
 
 Autor: Dina Schönbacher
 
-LBS Eibiswald | 2b APC
+LBS Eibiswald | 2a APC
 
 Vererbung in Java
 
